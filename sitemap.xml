@@ -1,0 +1,22 @@
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>https://portal.madebyvasilis.site</loc>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>https://portal.madebyvasilis.site/about.html</loc>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>https://portal.madebyvasilis.site/login.html</loc>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>https://portal.madebyvasilis.site/signup.html</loc>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+</urlset>
