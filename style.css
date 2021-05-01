@@ -3617,7 +3617,7 @@ figcaption {
   padding: 40px;
   border: 0px solid #888;
   width: 100%;
-  top: 40%;
+  top: 30%;
   position: fixed;
 }
 
@@ -3635,3 +3635,5 @@ figcaption {
   text-decoration: none;
   cursor: pointer;
 }
+
+.w3-input{padding:8px;display:block;border:none;border-bottom:1px solid #ccc;width:100%}
