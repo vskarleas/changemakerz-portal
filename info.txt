@@ -6,8 +6,7 @@ Cloudinary.com data:
 
 The sign up form is provided by Formspree
 
-Formspree.io data:
+getform.io data:
 - Username: changemakerz@client.madebyvasilis.site
-- Password: Takboc-9notse-putruc
 
-The account created email, the account set up email amd the data refreshed email are semt from Postmark server and the semd rule is triggered by airtable Portal databse. These two programs are donnected throught Zapier (changemakerz@client.madebyvasilis.site)
+The account created email, the account set up email amd the data refreshed email are semt from Postmark server and the send rule is triggered by airtable Portal databse. These two programs are donnected throught Zapier (changemakerz@client.madebyvasilis.site) with a Google sheet interconnection.
