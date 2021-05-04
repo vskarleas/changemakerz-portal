@@ -1,0 +1,8 @@
+{
+  "packageManager": "github",
+  "name": "WEB-APP_changemakerz_portal",
+  "repo": "vskarleas/WEB-APP_changemakerz_portal",
+  "files": {
+    "include": ["style.css"]
+  }
+}
